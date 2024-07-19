@@ -20,10 +20,10 @@ This project is an implementation of Conway's Game of Life in Python. It simulat
 3. When prompted, enter the path to a text file with the initial configuration:
    ```sh
    relative path for text file with config
-Example Usage:
-```sh
-python main.py
-Enter the path to the configuration file: tests/Gosper-Glider-Gun.txt
+4. Example Usage:
+   ```sh
+   python main.py
+   Enter the path to the configuration file: tests/Gosper-Glider-Gun.txt
 
 ## Contribution
 
